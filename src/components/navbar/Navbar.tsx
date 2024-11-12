@@ -99,7 +99,7 @@ const Navbar = () => {
             </Link>
             <button
               className="font-bold px-10 py-2 rounded-full
-             text-white bg-secondary-100 hover:opacity-70 cursor-pointer"
+             text-white bg-secondary-100 hover:text-accent-300 cursor-pointer"
             >
               Book now
             </button>
